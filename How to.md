@@ -1,4 +1,4 @@
-# Androidアプリ開発するためには
+﻿# Androidアプリ開発するためには
 
 ## 1. Android Studioのインストール
 
